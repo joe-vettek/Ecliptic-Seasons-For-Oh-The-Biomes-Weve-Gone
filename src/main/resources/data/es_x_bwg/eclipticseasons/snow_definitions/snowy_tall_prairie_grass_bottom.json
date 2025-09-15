@@ -1,0 +1,13 @@
+{
+  "blocks": "biomeswevegone:tall_prairie_grass",
+  "properties": [
+    {
+      "name": "half",
+      "matcher": {
+        "value": "lower"
+      }
+    }
+  ],"offset": 1,
+  "mid": "es_x_bwg:snowy/tall_prairie_grass_bottom",
+  "flag": 1001
+}

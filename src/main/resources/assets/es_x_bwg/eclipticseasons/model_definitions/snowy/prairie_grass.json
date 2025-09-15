@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "variants": {
+    "": {
+      "model": "es_x_bwg:block/snowy/prairie_grass"
+    }
+  }
+}

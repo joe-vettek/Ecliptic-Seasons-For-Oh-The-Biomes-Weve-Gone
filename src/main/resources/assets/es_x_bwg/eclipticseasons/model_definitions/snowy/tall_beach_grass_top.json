@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "variants": {
+    "": {
+      "model": "es_x_bwg:block/snowy/tall_beach_grass_top"
+    }
+  }
+}

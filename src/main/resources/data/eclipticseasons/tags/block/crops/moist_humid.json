@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "biomeswevegone:blueberry_bush",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:green_mushroom",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:wood_blewit",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:weeping_milkcap",
+      "required": false
+    }
+  ]
+}

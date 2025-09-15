@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "es_x_bwg:block/snowy/beach_grass"
+  }
+}

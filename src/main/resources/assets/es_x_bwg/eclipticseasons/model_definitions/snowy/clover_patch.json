@@ -1,0 +1,67 @@
+{
+  "replace": true,
+  "variants": {
+    "": [
+      {
+        "model": "es_x_bwg:block/snowy/clover_patch"
+      },
+      {
+        "model": "es_x_bwg:block/snowy/clover_patch",
+        "y": 90
+      },
+      {
+        "model": "es_x_bwg:block/snowy/clover_patch",
+        "y": 180
+      },
+      {
+        "model": "es_x_bwg:block/snowy/clover_patch",
+        "y": 270
+      },
+      {
+        "model": "es_x_bwg:block/snowy/clover_patch2"
+      },
+      {
+        "model": "es_x_bwg:block/snowy/clover_patch2",
+        "y": 90
+      },
+      {
+        "model": "es_x_bwg:block/snowy/clover_patch2",
+        "y": 180
+      },
+      {
+        "model": "es_x_bwg:block/snowy/clover_patch2",
+        "y": 270
+      },
+      {
+        "model": "es_x_bwg:block/snowy/clover_patch3"
+      },
+      {
+        "model": "es_x_bwg:block/snowy/clover_patch3",
+        "y": 90
+      },
+      {
+        "model": "es_x_bwg:block/snowy/clover_patch3",
+        "y": 180
+      },
+      {
+        "model": "es_x_bwg:block/snowy/clover_patch3",
+        "y": 270
+      },
+      {
+        "model": "es_x_bwg:block/snowy/clover_patch4"
+      },
+      {
+        "model": "es_x_bwg:block/snowy/clover_patch4",
+        "y": 90
+      },
+      {
+        "model": "es_x_bwg:block/snowy/clover_patch4",
+        "y": 180
+      },
+      {
+        "model": "es_x_bwg:block/snowy/clover_patch4",
+        "y": 270
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "blocks": "biomeswevegone:tall_beach_grass",
+  "properties": [
+    {
+      "name": "half",
+      "matcher": {
+        "value": "lower"
+      }
+    }
+  ],"offset": 1,
+  "mid": "es_x_bwg:snowy/tall_beach_grass_bottom",
+  "flag": 1001
+}
