@@ -1,16 +1,17 @@
-# [Ecliptic Seasons: MultiMod Patch](https://www.curseforge.com/minecraft/mc-mods/ecliptic-seasons-multimod-patch)
+This mod provides seamless compatibility between **Ecliptic Seasons** and **Oh The Biomes We’ve Gone**.
 
-![icon](icon.png)
+![img](https://media.forgecdn.net/attachments/1325/218/show.jpg "Show")
 
-通过一组兼容性补丁，使节气模组能够更好地与其他模组协同工作。
+## Features
 
-A collection of mixins for mod compatibility with Ecliptic Seasons.
+### Crop Adjustments
+- Removes seasonal requirements for **saplings** and **mushroom blocks**.
+- Adds **humidity requirements** for mushroom blocks and regular crops.
 
-### LICENSE 许可证
+### Grass Plant Enhancements
+- Provides **snow-covered definitions and models** for certain grass plants.
+- Ensures grass plants appear more **harmonious during winter**.
 
-* For code: BSD-3
-* 对于代码：BSD-3
-* For resources: CC BY-NC-SA 4.0
-* 对于资源文件：署名-非商业性使用-相同方式共享 4.0 国际
-
-
+### Biome Tag Fixes
+- Adjusts **biome tags** to prevent unnatural seasonal changes.
+- Example: tropical rainforests no longer display **obvious seasonal variations**.
